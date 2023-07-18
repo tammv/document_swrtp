@@ -1,20 +1,14 @@
 # Project Repository
 
-This repository contains the documentation and resources related to the BA project led by Mai Van Tam. The goal of this project is to [provide a brief description of the project goal or objective].
+This repository contains the documentation and resources related to the BA project led by Mai Van Tam. The goal of this project is to manage a sneaker shop.
 
 ## Repository Structure
 
 The repository is organized as follows:
 
 - **SRS**: This folder contains the Software Requirements Specification (SRS) documents that outline the functional and non-functional requirements of the project. It includes:
-  - [Document 1]: [Brief description or purpose of the document]
-  - [Document 2]: [Brief description or purpose of the document]
-  - ...
 
 - **SDS**: The SDS folder consists of the Software Design Specification (SDS) documents that describe the detailed design and architecture of the software system. It includes:
-  - [Document 1]: [Brief description or purpose of the document]
-  - [Document 2]: [Brief description or purpose of the document]
-  - ...
 
 - **Use Case Diagrams**: This folder contains the visual representations of the use cases, illustrating the interactions between system actors and the software system. It includes:
 
